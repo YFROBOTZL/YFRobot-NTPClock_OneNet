@@ -15,4 +15,4 @@ NTP，Network Time Protocol，网络时间协议；它是用来使网络中的�
 * [Timer Library](http://www.arduino.cc/playground/Code/Time)
 * [Timezone library](https://github.com/JChristensen/Timezone)
 
-Created by [YFROBOT](www.yfrobot.com)
+Created by [YFROBOT](http://www.yfrobot.com)
